@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/qgHZGh8/technology-communication-icons-symbols-concept.jpg",
+      "title": "Top 10 ES6 Features You Must Know ",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/Lg3Kc4L/blonde-young-writing-notebook-with-pencil.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "10 minutes",
+      "hashtags": ["#fiction", "#writing"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/xCBPGLQ/online-message-blog-chat-communication-envelop-graphic-icon-concept.jpg",
+      "title": "JavaScript Objects for Absolute Beginners : A fun introduction",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/CMNmJZH/inspired-creative-woman-writing-down-ideas.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "8 minutes",
+      "hashtags": ["#inspiration", "#books"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/vXPjR11/office-table-with-cup-coffee-keyboard-notepad.jpg",
+      "title": "Component Lifecycle in React-class component vs Functional component",
+      "author": "Bob Johnson",
+      "author_img": "https://i.ibb.co/rp2JWJB/jacket-happy-school-brown-hair-digital.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "15 minutes",
+      "hashtags": ["#philosophy", "#thoughts"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/ZYR1Bqd/notepad-pen-paper-clipboard-with-paperclips-laptop-green-background.jpg",
+      "title": "Free image and resources collection for website",
+      "author": "Alice Williams",
+      "author_img": "https://i.ibb.co/vjwJXH6/portrait-concentrated-redhead-man-writing-notebook.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": "12 minutes",
+      "hashtags": ["#motivation", "#life"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/y5Mn4zq/top-view-desk-concept-with-coffee.jpg",
+      "title": "Elit Sed Diam",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/YXMkTq3/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": "20 minutes",
+      "hashtags": ["#adventure", "#travel"]
+    }
+  ]
+  
